@@ -10,31 +10,31 @@ export default function Portfolio() {
         title: 'NeonBites',
         description: 'A futuristic food truck website with a vibrant design, email capture system, and seamless user experience.',
         image: '/images/NeonBites-Screenshot.jpg',
-        url: 'https://neonbites.com',
+        url: 'https://neon-bites-food.vercel.app/',
       },
       {
         title: 'Thynk Cafe',
         description: 'A custom e-commerce platform with advanced SEO and responsive design for optimal performance.',
         image: '/images/ThynkCafe-Screenshot.jpg',
-        url: 'https://thynkcafe.com',
+        url: 'https://restaurant-9xcg.onrender.com/',
       },
       {
         title: 'Food Genie',
         description: 'A custom e-commerce platform with advanced SEO and responsive design for optimal performance.',
         image: '/images/foodgenie-Screenshot.jpg',
-        url: 'https://foodgenie.com',
+        url: 'https://foodgenie-vfnm.onrender.com/',
       },
       {
         title: 'Satisfynds',
         description: 'A custom e-commerce platform with advanced SEO and responsive design for optimal performance.',
         image: '/images/satisfynds-Screenshot.jpg',
-        url: 'https://Satisfynds.com',
+        url: 'https://satisfinds-frontend-v2.onrender.com/',
       },
       {
         title: 'LegalPixel Pros',
         description: 'A custom e-commerce platform with advanced SEO and responsive design for optimal performance.',
         image: '/images/legal-pixel-pro-screenshot.jpg',
-        url: 'https://lealpixelpros.com',
+        url: 'https://legal-pixel.vercel.app/',
       },
       
     ];
