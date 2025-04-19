@@ -12,8 +12,7 @@ export default function Contact() {
     e.preventDefault();
     setStatus('Sending...');
     try {
-      // Replace with your backend endpoint
-      const response = await fetch('https://api.yourbackend.com/contact', {
+      const response = await fetch('http://localhost:5180/contact', { // Use HTTP and /contact
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(formData),
